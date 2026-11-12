@@ -1,0 +1,12 @@
+{
+  "key.category.pvpstudio.main": "PvP Studio",
+  "key.pvpstudio.open_menu": "Open PvP Studio menu",
+  "pvpstudio.title": "PvP Studio",
+  "pvpstudio.tab.textures": "Textures",
+  "pvpstudio.tab.packs": "Packs",
+  "pvpstudio.tab.pvp": "PvP",
+  "pvpstudio.tab.hud": "HUD",
+  "pvpstudio.tab.ui": "Interface",
+  "pvpstudio.tab.profiles": "Profiles",
+  "pvpstudio.placeholder": "This section arrives in a later stage."
+}
